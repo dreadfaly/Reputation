@@ -1,0 +1,8 @@
+# Reputation by dreadfaly
+# min: The number of minutes after which the player can repeatedly vote.
+# gold: [Reputation] [GOLD] The player dreadfaly has 1000 reputation points.
+min: 60
+gold: 100
+
+
+

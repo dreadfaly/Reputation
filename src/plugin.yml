@@ -1,0 +1,27 @@
+name: Reputation
+version: 0.5
+main: ru.dreadfaly.reputation.Main
+author: dreadfaly
+commands:
+  rep:
+    description: View/Change reputation player's.
+    usage: /rep <player> <+/- reputation>
+  reputation:
+      description: View/Change reputation player's.
+      usage: /reputation <player> <+/- reputation>
+  changerep:
+      description: Change reputation player's.
+      usage: /changerep <player> <reputation points>
+  changereputation:
+      description: Change reputation player's.
+      usage: /changereputation <player> <reputation points>
+permissions:
+  reputation.info:
+    description: The ability to see the reputation of players.
+    default: op
+  reputation.give:
+      description: The ability to change the reputation of players.
+      default: op
+  reputation.admin:
+      description: Player reputation change
+      default: op
