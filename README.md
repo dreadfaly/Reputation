@@ -1,2 +1,2 @@
 # Reputation
-# Bukkit Plugin 
+Bukkit plugin Minecraft on Reputation.
